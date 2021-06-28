@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1624888942871.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "965238014",
+    "id" : "18A74195",
+    "lastKnownWriteTime" : 1624889619,
+    "last_content_update" : 1624889619101,
+    "path" : "~/Documents/GitHub/prep_calendar_app/Prep_Calander_Shiny_app/Prep_Calendar_App/app.R",
+    "project_path" : "Prep_Calander_Shiny_app/Prep_Calendar_App/app.R",
+    "properties" : {
+        "cursorPosition" : "68,41",
+        "scrollLine" : "62"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
